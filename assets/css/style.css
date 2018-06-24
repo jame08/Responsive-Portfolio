@@ -36,6 +36,18 @@ a:hover {
     color: blue;
 }
 
+.boxp {
+
+    padding: 10px 10px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    height: 525px;
+    border-radius: 5px;
+    width: 960px;
+  
+}
 
 
 .box {
@@ -315,6 +327,10 @@ input[type=submit]:hover {
         max-width: 750px;
     }
 
+    .hleft{
+
+        margin-left: 60px;
+    }
     .hright {
 
         position: absolute;
